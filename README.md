@@ -1,8 +1,8 @@
-# -----------------------------------------------------Sales Performance Analysis-------------------------------------------------------------------#
+# Sales Performance Analysis-------------------------------------------------------------------
 
 A business intelligence project using **SQL, Excel, and Power BI** to analyze sales trends, profitability, customer segments, and regional performance.
 
-###----------------- Key Highlights----------------------------------#
+### Key Highlights----------------------------------
 
 * Advanced SQL analysis (CASE, Subqueries, HAVING, Joins)
 * Excel variance and growth analysis
@@ -10,11 +10,11 @@ A business intelligence project using **SQL, Excel, and Power BI** to analyze sa
 * KPI tracking: Sales, Profit, Profit Margin, Growth %, and Customers
 * Business insights and strategic recommendations
 
-### ------Tools--------#
+### Tools--------
 
 SQL • Excel • Power BI
 
-### --------Results-------#
+### Results-------
 
 * **Total Sales:** 2.26M
 * **Total Profit:** 442.22K
